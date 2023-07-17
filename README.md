@@ -1,5 +1,9 @@
 # Wafer---Web-Application-Firewall-Easy-Route
 
+Opensource WAF
+
+WAFER (Web Application Firewall Easy Route) Self Host-based WAF—can be fully integrated into any Web Applications.
+
 ```A web application firewall```
 
 WAF, is a security tool for monitoring, filtering and blocking incoming and outgoing data packets from a web application or website. WAFs can be host-based, network-based or cloud-based and are typically deployed through reverse proxies and placed in front of an application or website (or multiple apps and sites).
